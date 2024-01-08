@@ -1,0 +1,45 @@
+i{
+    color: blueviolet;
+    text-align: center;
+}
+
+h1{
+color:red;
+text-align: center;
+text-decoration: underline;
+}
+img{
+    width:100%;
+    border-radius:100px;
+    border: 2px solid red;
+}
+div{
+    display: inline-block;
+    padding-left:80px;
+    margin-left: 10px;
+}
+
+.card{
+    width:400px;
+   border-radius: 20px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+*{
+    background-color: antiquewhite;
+}
+p{
+    text-align: center;
+    display:inline-block;
+}
+h4{
+    color: rebeccapurple;
+    text-align: center;
+    text-decoration:darkmagenta dotted;
+}
+h3{
+    color: blueviolet;
+    text-align: center;
+    text-decoration:darkmagenta underline;
+}
